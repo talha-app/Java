@@ -1,0 +1,89 @@
+package com.talha.app.deviceapp.repository;
+
+import java.sql.Connection;
+import java.util.Optional;
+
+import com.talha.entityLib.Device;
+
+public class DevicesRepository implements IDeviceRepository{
+	
+	private static String FIND_BY_ID ="select * from devices where id=?";
+
+	private Connection getCon() {
+		
+	}
+	@Override
+	public Optional<Device> findById(Integer id) {
+		try(){}
+		catch() {}
+	}
+	
+	@Override
+	public long count() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+	@Override
+	public void delete(Device arg0) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void deleteAll() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void deleteAll(Iterable<? extends Device> arg0) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void deleteById(Integer arg0) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public boolean existsById(Integer arg0) {
+		// TODO Auto-generated method stub
+		return false;
+	}
+
+	@Override
+	public Iterable<Device> findAll() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public Iterable<Device> findAllById(Iterable<Integer> arg0) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+
+
+	@Override
+	public <S extends Device> S save(S arg0) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public <S extends Device> Iterable<S> saveAll(Iterable<S> arg0) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public Optional<Device> findByName(String name) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;org.csystem.repositorytest.devicesapp&apos; to &apos;com.talha.app.deviceapp.repositorytest&apos;&#x0D;&#x0A;- Original project: &apos;RepositoryLib&apos;&#x0D;&#x0A;- Original element: &apos;RepositoryLib/testSrc/org.csystem.repositorytest.devicesapp&apos;&#x0D;&#x0A;- Renamed element: &apos;RepositoryLib/testSrc/com.talha.app.deviceapp.repositorytest&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;org.csystem.repositorytest.devicesapp&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/testSrc&lt;org.csystem.repositorytest.devicesapp" name="com.talha.app.deviceapp.repositorytest" qualified="false" references="true" stamp="1584439709015" textual="false" version="1.0"/>
+</session>

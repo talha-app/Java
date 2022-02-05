@@ -1,0 +1,10 @@
+127.0.0.1 - - [17/Mar/2020:13:15:06 +0300] "GET / HTTP/1.1" 404 709
+0:0:0:0:0:0:0:1 - - [17/Mar/2020:13:15:07 +0300] "GET /DevicesWebApp/insertdevice.jsp HTTP/1.1" 200 133
+0:0:0:0:0:0:0:1 - - [17/Mar/2020:13:20:49 +0300] "GET /DevicesWebApp/insertdevice.jsp HTTP/1.1" 200 133
+0:0:0:0:0:0:0:1 - - [17/Mar/2020:13:20:49 +0300] "GET /DevicesWebApp/insertdevice.jsp HTTP/1.1" 200 133
+0:0:0:0:0:0:0:1 - - [17/Mar/2020:13:29:31 +0300] "GET /DevicesWebApp/insertdevice.jsp HTTP/1.1" 200 405
+127.0.0.1 - - [17/Mar/2020:13:42:48 +0300] "GET / HTTP/1.1" 404 709
+0:0:0:0:0:0:0:1 - - [17/Mar/2020:13:43:01 +0300] "GET /DevicesWebApp/insertdevice.jsp HTTP/1.1" 200 1048
+0:0:0:0:0:0:0:1 - - [17/Mar/2020:13:43:01 +0300] "GET /favicon.ico HTTP/1.1" 404 720
+0:0:0:0:0:0:0:1 - - [17/Mar/2020:13:43:06 +0300] "POST /DevicesWebApp/insertdevice.jsp HTTP/1.1" 200 1136
+0:0:0:0:0:0:0:1 - - [17/Mar/2020:13:43:13 +0300] "POST /DevicesWebApp/insertdevice.jsp HTTP/1.1" 200 1346

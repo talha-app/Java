@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com.talha&apos; to &apos;com.talha.entityLib&apos;&#x0D;&#x0A;- Original project: &apos;EntityLib&apos;&#x0D;&#x0A;- Original element: &apos;EntityLib/src/com.talha&apos;&#x0D;&#x0A;- Renamed element: &apos;EntityLib/src/com.talha.entityLib&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com.talha&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;com.talha" name="com.talha.entityLib" qualified="false" references="true" stamp="1584379535699" textual="false" version="1.0"/>
+</session>

@@ -1,0 +1,5 @@
+package com.talha.serviceLib.devicesapp;
+
+public class DeviceService {
+
+}

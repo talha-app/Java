@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="com.talha.app.deviceapp.repository.IDeviceRepository"/>
+    <fullyQualifiedTypeName name="java.util.stream.StreamSupport"/>
+    <fullyQualifiedTypeName name="java.util.stream.Collectors"/>
+    <fullyQualifiedTypeName name="org.csystem.util.db.repository.RepositoryException"/>
+    <fullyQualifiedTypeName name="com.talha.servicetest.devicesapp.InsertDeviceTest"/>
+    <fullyQualifiedTypeName name="java.lang.Throwable"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="com.talha.app.deviceswebapp.jsp.DevicesWebAppJSP"/>
+    <fullyQualifiedTypeName name="javax.servlet.jsp.JspWriter"/>
+    <fullyQualifiedTypeName name="javax.servlet.http.HttpServlet"/>
+    <fullyQualifiedTypeName name="javax.servlet.http.HttpServletRequest"/>
+    <fullyQualifiedTypeName name="org.csystem.util.db.service.ServiceException"/>
+    <fullyQualifiedTypeName name="com.talha.entityLib.Device"/>
+    <fullyQualifiedTypeName name="com.talha.serviceLib.devicesapp.IDeviceService"/>
+    <fullyQualifiedTypeName name="com.talha.serviceLib.devicesapp.DeviceService"/>
+    <fullyQualifiedTypeName name="com.talha.app.deviceapp.repository.DevicesRepository"/>
+</qualifiedTypeNameHistroy>

@@ -1,0 +1,9 @@
+package org.csystem.repositorytest.devicesapp;
+
+import com.talha.app.deviceapp.repository.DevicesRepository;
+
+public class FindDeviceByIdTestApp {
+	FindDeviceByIdTest test = new FindDeviceByIdTest(DevicesRepository.INSTANCE);
+	
+	test.run();;
+}

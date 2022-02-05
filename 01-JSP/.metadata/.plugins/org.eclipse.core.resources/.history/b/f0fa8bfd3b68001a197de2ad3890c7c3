@@ -1,0 +1,17 @@
+package com.talha.app.deviceswebapp.jsp;
+
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.jsp.JspWriter;
+
+public class DevicesWebAppJSP {
+	
+	private DevicesWebAppJSP() {}
+	
+	public static void insertDevice(HttpServletRequest request, JspWriter out) {
+		
+	}
+	
+	
+
+}
