@@ -1,0 +1,638 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="419ebcd0-c671-4020-a59c-661f3e94c606" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.mylyn/.taskListIndex/segments_1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.mylyn/.taskListIndex/write.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.mylyn/.tasks.xml.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.mylyn/repositories.xml.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.mylyn/tasks.xml.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.core.resources/.history/10/10aa09c71668001a143adf93bb25620e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.core.resources/.history/1b/405cc4333a68001a197de2ad3890c7c3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.core.resources/.history/1c/50346922ab67001a143adf93bb25620e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.core.resources/.history/1e/c0fcae812c68001a197de2ad3890c7c3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.core.resources/.history/28/e085ba3f3768001a197de2ad3890c7c3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.core.resources/.history/2f/c04d522d3768001a197de2ad3890c7c3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.core.resources/.history/37/f092b6302d68001a197de2ad3890c7c3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.core.resources/.history/39/e08d892e3a68001a197de2ad3890c7c3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.core.resources/.history/3a/4058282c2d68001a197de2ad3890c7c3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.core.resources/.history/3e/80389a471668001a143adf93bb25620e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.core.resources/.history/4/908b3b1e2c68001a197de2ad3890c7c3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.core.resources/.history/40/604db93f3768001a197de2ad3890c7c3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.core.resources/.history/41/00b976661568001a143adf93bb25620e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.core.resources/.history/42/7026bf1b1768001a143adf93bb25620e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.core.resources/.history/42/d013ee8eaa67001a143adf93bb25620e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.core.resources/.history/43/70aae346ad67001a143adf93bb25620e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.core.resources/.history/51/601f09333668001a197de2ad3890c7c3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.core.resources/.history/56/d0a87d2cac67001a143adf93bb25620e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.core.resources/.history/5a/20395b972868001a197de2ad3890c7c3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.core.resources/.history/5d/c14d522d3768001a197de2ad3890c7c3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.core.resources/.history/6c/10a0f6ac3968001a197de2ad3890c7c3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.core.resources/.history/6c/5068327eac67001a143adf93bb25620e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.core.resources/.history/6c/e12b26573b68001a197de2ad3890c7c3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.core.resources/.history/70/f07992d8ae67001a143adf93bb25620e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.core.resources/.history/72/90c343ad1668001a143adf93bb25620e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.core.resources/.history/73/0022d378ac67001a143adf93bb25620e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.core.resources/.history/75/c24d522d3768001a197de2ad3890c7c3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.core.resources/.history/84/f037cc80aa67001a143adf93bb25620e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.core.resources/.history/88/2007f9ea2c68001a197de2ad3890c7c3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.core.resources/.history/89/a08a40481668001a143adf93bb25620e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.core.resources/.history/9/4035ae351668001a143adf93bb25620e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.core.resources/.history/9/609ab050c967001a143adf93bb25620e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.core.resources/.history/96/c0c49922ac67001a143adf93bb25620e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.core.resources/.history/96/f0b2e9801668001a143adf93bb25620e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.core.resources/.history/97/9002a325ab67001a143adf93bb25620e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.core.resources/.history/97/e0ff25e6ab67001a143adf93bb25620e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.core.resources/.history/9d/209d213c3668001a197de2ad3890c7c3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.core.resources/.history/b/f0fa8bfd3b68001a197de2ad3890c7c3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.core.resources/.history/b6/f0c3f8e13a68001a197de2ad3890c7c3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.core.resources/.history/b9/0059f2053768001a197de2ad3890c7c3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.core.resources/.history/b9/4036779fab67001a143adf93bb25620e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.core.resources/.history/ba/b0814fe33768001a197de2ad3890c7c3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.core.resources/.history/ba/d05856071668001a143adf93bb25620e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.core.resources/.history/bb/c081f0aa3768001a197de2ad3890c7c3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.core.resources/.history/bd/e02b26573b68001a197de2ad3890c7c3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.core.resources/.history/c2/e00d2b573b68001a197de2ad3890c7c3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.core.resources/.history/c5/20c7502d3768001a197de2ad3890c7c3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.core.resources/.history/c6/0049476a1568001a143adf93bb25620e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.core.resources/.history/cd/4024da58c967001a143adf93bb25620e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.core.resources/.history/ce/7085bcc8ae67001a143adf93bb25620e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.core.resources/.history/d3/8089f4551668001a143adf93bb25620e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.core.resources/.history/d4/5024bc61ab67001a143adf93bb25620e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.core.resources/.history/dc/60cb4426ac67001a143adf93bb25620e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.core.resources/.history/ec/a08e4f2d3768001a197de2ad3890c7c3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.core.resources/.history/ed/e0c964063768001a197de2ad3890c7c3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.core.resources/.history/f3/708c0d271668001a143adf93bb25620e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.core.resources/.history/f5/40f016aaab67001a143adf93bb25620e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.core.resources/.history/f7/50a8d21f1668001a143adf93bb25620e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.core.resources/.history/f7/8088c4b0ab67001a143adf93bb25620e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.core.resources/.history/fa/8013d7edad67001a143adf93bb25620e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.core.resources/.history/fa/b050ae4f3968001a197de2ad3890c7c3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.core.resources/.history/fd/609eb49cac67001a143adf93bb25620e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.core.resources/.projects/DevicesWebApp/.indexes/5b/a8/85/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.core.resources/.projects/DevicesWebApp/.indexes/5b/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.core.resources/.projects/DevicesWebApp/.indexes/af/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.core.resources/.projects/DevicesWebApp/.indexes/e4/81/d8/21/96/47/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.core.resources/.projects/DevicesWebApp/.markers" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.core.resources/.projects/DevicesWebApp/.markers.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.core.resources/.projects/DevicesWebApp/.syncinfo.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.core.resources/.projects/EntityLib/.indexes/af/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.core.resources/.projects/EntityLib/.indexes/e4/81/d8/5e/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.core.resources/.projects/EntityLib/.indexes/e4/81/d8/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.core.resources/.projects/EntityLib/.markers.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.core.resources/.projects/EntityLib/.syncinfo.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.core.resources/.projects/EntityLib/org.eclipse.jdt.core/state.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.core.resources/.projects/RepositoryLib/.indexes/af/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.core.resources/.projects/RepositoryLib/.indexes/e/81/d8/21/b/24/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.core.resources/.projects/RepositoryLib/.indexes/e/e4/52/24/24/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.core.resources/.projects/RepositoryLib/.indexes/e4/81/d8/21/b/4a/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.core.resources/.projects/RepositoryLib/.markers.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.core.resources/.projects/RepositoryLib/.syncinfo.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.core.resources/.projects/RepositoryLib/org.eclipse.jdt.core/state.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.core.resources/.projects/Servers/.indexes/75/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.core.resources/.projects/Servers/.markers.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.core.resources/.projects/Servers/.syncinfo.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.core.resources/.projects/ServiceLib/.indexes/af/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.core.resources/.projects/ServiceLib/.indexes/e/81/d8/39/24/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.core.resources/.projects/ServiceLib/.indexes/e4/81/d8/70/24/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.core.resources/.projects/ServiceLib/.markers" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.core.resources/.projects/ServiceLib/.markers.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.core.resources/.projects/ServiceLib/.syncinfo.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.core.resources/.projects/ServiceLib/org.eclipse.jdt.core/state.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/history.version" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.version" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.core.resources/.root/.markers.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.core.resources/.root/2.tree" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.core.resources/2.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.debug.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.junit.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.launching.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jsch.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jst.j2ee.webservice.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jst.jsp.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jst.jsp.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jst.server.tomcat.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.m2e.discovery.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.context.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.java.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.monitor.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.tasks.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.pde.api.tools.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.rse.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.browser.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.editors.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.ide.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.workbench.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.wst.jsdt.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.wst.jsdt.web.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.wst.server.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.wst.server.discovery.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.wst.sse.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.wst.ws.service.policy.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.debug.core/.launches/FindDeviceByIdTestApp.launch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.debug.core/.launches/Tomcat v9.0 Server at localhost.launch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.debug.core/.launches/_insertdevice.jsp.launch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.debug.ui/launchConfigurationHistory.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.jdt.core/1233382786.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.jdt.core/1383882236.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.jdt.core/1392367393.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.jdt.core/1421207723.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.jdt.core/1544097605.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.jdt.core/1593318848.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.jdt.core/1613259817.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.jdt.core/1981291505.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.jdt.core/2010946602.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.jdt.core/2047126599.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.jdt.core/2114927437.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.jdt.core/2130946117.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.jdt.core/2287857340.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.jdt.core/2292317917.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.jdt.core/2695189435.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.jdt.core/275910180.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.jdt.core/2842528100.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.jdt.core/2947253331.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.jdt.core/2985109346.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.jdt.core/3011959213.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.jdt.core/3026717108.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.jdt.core/3046009847.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.jdt.core/3252815411.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.jdt.core/3306657272.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.jdt.core/3309522575.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.jdt.core/3347399403.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.jdt.core/3383675112.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.jdt.core/3479951939.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.jdt.core/3512140305.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.jdt.core/3548863725.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.jdt.core/3552965757.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.jdt.core/3583294871.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.jdt.core/3604576388.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.jdt.core/3730759835.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.jdt.core/3745553885.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.jdt.core/3842787038.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.jdt.core/397848774.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.jdt.core/4103519379.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.jdt.core/4135131423.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.jdt.core/4168291719.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.jdt.core/4179045414.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.jdt.core/455237831.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.jdt.core/456400756.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.jdt.core/50762656.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.jdt.core/618707791.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.jdt.core/905496417.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.jdt.core/assumedExternalFilesCache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.jdt.core/externalFilesCache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.jdt.core/externalLibsTimeStamps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.jdt.core/index.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.jdt.core/indexNamesMap.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.jdt.core/javaLikeNames.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.jdt.core/nonChainingJarsCache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.jdt.core/participantsIndexNames.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.jdt.launching/.install.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.jdt.launching/libraryInfos.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.jdt.ui/OpenTypeHistory.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.jdt.ui/QualifiedTypeNameHistory.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.jdt.ui/dialog_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.jst.j2ee.ui/dialog_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.jst.j2ee.web/webLibrariesCache.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.jst.j2ee/earLibrariesCache.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/946166092.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.jst.jsp.core/taglibindex/3583294871.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.jst.jsp.core/translators/3949337929.translator" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/DevicesWebApp/2020/3/12/refactorings.history" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/DevicesWebApp/2020/3/12/refactorings.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/EntityLib/2020/3/12/refactorings.history" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/EntityLib/2020/3/12/refactorings.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/RepositoryLib/2020/3/12/refactorings.history" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/RepositoryLib/2020/3/12/refactorings.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.ltk.ui.refactoring/dialog_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.m2e.logback.configuration/logback.1.10.0.20181127-2120.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.m2e.logback.configuration/logback.1.13.0.20190716-1624.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.pde.core/.cache/clean-cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.rse.core/.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.rse.core/initializerMarks/org.eclipse.rse.internal.core.RSELocalConnectionInitializer.mark" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.tips.ide/dialog_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.ui.ide/dialog_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.ui.intro/introstate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.ui.workbench/dialog_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.ui.workbench/workingsets.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.wst.internet.cache/cache.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.wst.jsdt.core/externalLibsTimeStamps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes/2489517069.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes/3191145213.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes/3583294871.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes/4060371503.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes/639028917.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes/795656115.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes/savedIndexNames.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.wst.jsdt.core/libraries/baseBrowserLibrary.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.wst.jsdt.core/libraries/browserWindow.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.wst.jsdt.core/libraries/dom5.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.wst.jsdt.core/libraries/system.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.wst.jsdt.core/libraries/xhr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.wst.jsdt.core/variablesAndContainers.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.wst.jsdt.ui/OpenTypeHistory.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.wst.jsdt.ui/QualifiedTypeNameHistory.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.wst.jsdt.web.core/jssearch/946166092.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.wst.server.core/monitors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.wst.server.core/publish.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.wst.server.core/publish/publish0.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.wst.server.core/servers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.wst.server.core/tmp-data.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/conf/catalina.policy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/conf/catalina.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/conf/context.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/conf/server.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/conf/tomcat-users.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/conf/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/logs/localhost_access_log.2020-03-17.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/work/Catalina/localhost/DevicesWebApp/org/apache/jsp/insertdevice_jsp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/work/Catalina/localhost/DevicesWebApp/org/apache/jsp/insertdevice_jsp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/DevicesWebApp/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/DevicesWebApp/WEB-INF/classes/com/talha/app/deviceswebapp/jsp/DevicesWebAppJSP.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/DevicesWebApp/WEB-INF/lib/EntityLib.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/DevicesWebApp/WEB-INF/lib/RepositoryLib.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/DevicesWebApp/WEB-INF/lib/ServiceLib.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/DevicesWebApp/WEB-INF/lib/org-csystem-util-db.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/DevicesWebApp/insertdevice.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/ROOT/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.wst.sse.core/task-tags.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.wst.sse.ui/dialog_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.wst.validation/dep.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.wst.xml.core/default_catalog.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/.plugins/org.eclipse.wst.xml.core/system_catalog.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.metadata/version.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/DevicesWebApp/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/DevicesWebApp/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/DevicesWebApp/.settings/.jsdtscope" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/DevicesWebApp/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/DevicesWebApp/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/DevicesWebApp/.settings/org.eclipse.wst.common.component" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/DevicesWebApp/.settings/org.eclipse.wst.common.project.facet.core.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/DevicesWebApp/.settings/org.eclipse.wst.jsdt.ui.superType.container" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/DevicesWebApp/.settings/org.eclipse.wst.jsdt.ui.superType.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/DevicesWebApp/WebContent/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/DevicesWebApp/WebContent/WEB-INF/lib/EntityLib.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/DevicesWebApp/WebContent/WEB-INF/lib/RepositoryLib.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/DevicesWebApp/WebContent/WEB-INF/lib/ServiceLib.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/DevicesWebApp/WebContent/WEB-INF/lib/org-csystem-util-db.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/DevicesWebApp/WebContent/insertdevice.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/DevicesWebApp/build/classes/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/DevicesWebApp/src/com/talha/app/deviceswebapp/jsp/DevicesWebAppJSP.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/EntityLib/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/EntityLib/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/EntityLib/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/EntityLib/bin/com/talha/entityLib/Device.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/EntityLib/src/com/talha/entityLib/Device.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/RepositoryLib/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/RepositoryLib/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/RepositoryLib/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/RepositoryLib/bin/com/talha/app/deviceapp/repository/ConnectionInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/RepositoryLib/bin/com/talha/app/deviceapp/repository/DevicesRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/RepositoryLib/bin/com/talha/app/deviceapp/repository/IDeviceRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/RepositoryLib/bin/com/talha/app/deviceapp/repositorytest/FindDeviceByIdTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/RepositoryLib/bin/com/talha/app/deviceapp/repositorytest/FindDeviceByIdTestApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/RepositoryLib/src/com/talha/app/deviceapp/repository/ConnectionInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/RepositoryLib/src/com/talha/app/deviceapp/repository/DevicesRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/RepositoryLib/src/com/talha/app/deviceapp/repository/IDeviceRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/RepositoryLib/testSrc/com/talha/app/deviceapp/repositorytest/FindDeviceByIdTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/RepositoryLib/testSrc/com/talha/app/deviceapp/repositorytest/FindDeviceByIdTestApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/Servers/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/Servers/.settings/org.eclipse.wst.server.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/Servers/Tomcat v9.0 Server at localhost-config/catalina.policy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/Servers/Tomcat v9.0 Server at localhost-config/catalina.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/Servers/Tomcat v9.0 Server at localhost-config/context.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/Servers/Tomcat v9.0 Server at localhost-config/server.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/Servers/Tomcat v9.0 Server at localhost-config/tomcat-users.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/Servers/Tomcat v9.0 Server at localhost-config/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/ServiceLib/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/ServiceLib/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/ServiceLib/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/ServiceLib/bin/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/ServiceLib/src/com/talha/serviceLib/devicesapp/DeviceService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/ServiceLib/src/com/talha/serviceLib/devicesapp/IDeviceService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/ServiceLib/testSrc/com/talha/servicetest/devicesapp/InsertDeviceTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JSP/ServiceLib/testSrc/com/talha/servicetest/devicesapp/InsertDeviceTestApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-Microservice - DevicesAppClientRestService/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-Microservice - DevicesAppClientRestService/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-Microservice - DevicesAppClientRestService/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-Microservice - DevicesAppClientRestService/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-Microservice - DevicesAppClientRestService/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-Microservice - DevicesAppClientRestService/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-Microservice - DevicesAppClientRestService/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-Microservice - DevicesAppClientRestService/src/main/java/com/talha/springboot/app/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-Microservice - DevicesAppClientRestService/src/main/java/com/talha/springboot/app/configuration/RestTemplateConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-Microservice - DevicesAppClientRestService/src/main/java/com/talha/springboot/app/configuration/SchedulingConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-Microservice - DevicesAppClientRestService/src/main/java/com/talha/springboot/app/controller/DeviceInfoRestController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-Microservice - DevicesAppClientRestService/src/main/java/com/talha/springboot/app/entity/ClientInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-Microservice - DevicesAppClientRestService/src/main/java/com/talha/springboot/app/entity/DeviceInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-Microservice - DevicesAppClientRestService/src/main/java/com/talha/springboot/app/mapper/IDeviceModelEntityMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-Microservice - DevicesAppClientRestService/src/main/java/com/talha/springboot/app/repository/IClientInfoRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-Microservice - DevicesAppClientRestService/src/main/java/com/talha/springboot/app/repository/IDeviceInfoRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-Microservice - DevicesAppClientRestService/src/main/java/com/talha/springboot/app/service/ClientInfoService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-Microservice - DevicesAppClientRestService/src/main/java/com/talha/springboot/app/service/DeviceInfoService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-Microservice - DevicesAppClientRestService/src/main/java/com/talha/springboot/app/service/IClientInfoService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-Microservice - DevicesAppClientRestService/src/main/java/com/talha/springboot/app/service/IDeviceInfoService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-Microservice - DevicesAppClientRestService/src/main/java/com/talha/springboot/app/viewmodel/DeviceViewModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-Microservice - DevicesAppClientRestService/src/main/java/com/talha/springboot/app/viewmodel/DevicesInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-Microservice - DevicesAppClientRestService/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-Microservice - DevicesAppClientRestService/src/test/java/com/talha/springboot/app/AppTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-PostalCodesApp/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-PostalCodesApp/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-PostalCodesApp/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-PostalCodesApp/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-PostalCodesApp/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-PostalCodesApp/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-PostalCodesApp/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-PostalCodesApp/src/main/java/com/talha/springboot/app/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-PostalCodesApp/src/main/java/com/talha/springboot/app/configuration/RestTemplateConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-PostalCodesApp/src/main/java/com/talha/springboot/app/controller/PostalCodeRestController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-PostalCodesApp/src/main/java/com/talha/springboot/app/entity/ClientInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-PostalCodesApp/src/main/java/com/talha/springboot/app/entity/PostalCodeInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-PostalCodesApp/src/main/java/com/talha/springboot/app/mapper/IPostalCodeMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-PostalCodesApp/src/main/java/com/talha/springboot/app/model/PostalCodeViewModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-PostalCodesApp/src/main/java/com/talha/springboot/app/model/PostalCodesInfoDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-PostalCodesApp/src/main/java/com/talha/springboot/app/repository/IClientInfoRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-PostalCodesApp/src/main/java/com/talha/springboot/app/repository/IPostalCodeRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-PostalCodesApp/src/main/java/com/talha/springboot/app/service/ClientInfoService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-PostalCodesApp/src/main/java/com/talha/springboot/app/service/IClientInfoService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-PostalCodesApp/src/main/java/com/talha/springboot/app/service/IPostalCodeService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-PostalCodesApp/src/main/java/com/talha/springboot/app/service/PostalCodeService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-PostalCodesApp/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-PostalCodesApp/src/test/java/com/talha/springboot/app/SampleAppApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Hibernate-JPA-AdvanceMapping/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Hibernate-JPA-AdvanceMapping/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Hibernate-JPA-AdvanceMapping/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Hibernate-JPA-AdvanceMapping/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Hibernate-JPA-AdvanceMapping/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Hibernate-JPA-AdvanceMapping/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Hibernate-JPA-AdvanceMapping/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Hibernate-JPA-AdvanceMapping/src/main/java/com/talha/springboot/app/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Hibernate-JPA-AdvanceMapping/src/main/java/com/talha/springboot/app/controller/StudentController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Hibernate-JPA-AdvanceMapping/src/main/java/com/talha/springboot/app/entity/Course.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Hibernate-JPA-AdvanceMapping/src/main/java/com/talha/springboot/app/entity/Instructor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Hibernate-JPA-AdvanceMapping/src/main/java/com/talha/springboot/app/entity/InstructorDetails.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Hibernate-JPA-AdvanceMapping/src/main/java/com/talha/springboot/app/entity/Review.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Hibernate-JPA-AdvanceMapping/src/main/java/com/talha/springboot/app/entity/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Hibernate-JPA-AdvanceMapping/src/main/java/com/talha/springboot/app/repository/ICourseRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Hibernate-JPA-AdvanceMapping/src/main/java/com/talha/springboot/app/repository/IInstructorDetailsRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Hibernate-JPA-AdvanceMapping/src/main/java/com/talha/springboot/app/repository/IInstructorRepositoy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Hibernate-JPA-AdvanceMapping/src/main/java/com/talha/springboot/app/repository/IReviewRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Hibernate-JPA-AdvanceMapping/src/main/java/com/talha/springboot/app/repository/IStudentRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Hibernate-JPA-AdvanceMapping/src/main/java/com/talha/springboot/app/service/CourseService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Hibernate-JPA-AdvanceMapping/src/main/java/com/talha/springboot/app/service/ICourseService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Hibernate-JPA-AdvanceMapping/src/main/java/com/talha/springboot/app/service/IInstructorDetailsService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Hibernate-JPA-AdvanceMapping/src/main/java/com/talha/springboot/app/service/IInstructorService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Hibernate-JPA-AdvanceMapping/src/main/java/com/talha/springboot/app/service/IReviewService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Hibernate-JPA-AdvanceMapping/src/main/java/com/talha/springboot/app/service/IStudentService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Hibernate-JPA-AdvanceMapping/src/main/java/com/talha/springboot/app/service/InstructorDetailsService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Hibernate-JPA-AdvanceMapping/src/main/java/com/talha/springboot/app/service/InstructorService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Hibernate-JPA-AdvanceMapping/src/main/java/com/talha/springboot/app/service/ReviewService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Hibernate-JPA-AdvanceMapping/src/main/java/com/talha/springboot/app/service/StudentService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Hibernate-JPA-AdvanceMapping/src/main/java/com/talha/springboot/app/test/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Hibernate-JPA-AdvanceMapping/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Spring MVC/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Spring MVC/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Spring MVC/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Spring MVC/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Spring MVC/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Spring MVC/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Spring MVC/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Spring MVC/src/main/java/com/talha/springboot/app/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Spring MVC/src/main/java/com/talha/springboot/app/controller/CustomerController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Spring MVC/src/main/java/com/talha/springboot/app/entity/Customer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Spring MVC/src/main/java/com/talha/springboot/app/repository/ICustomerRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Spring MVC/src/main/java/com/talha/springboot/app/service/CustomerService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Spring MVC/src/main/java/com/talha/springboot/app/service/ICustomerService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Spring MVC/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Spring MVC/src/main/webapp/WEB-INF/jsp/customer-form.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Spring MVC/src/main/webapp/WEB-INF/jsp/list-customers.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Spring MVC/src/main/webapp/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Spring MVC/src/main/webapp/resources/css/add-customer-style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Spring MVC/src/main/webapp/resources/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-Spring Security/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-Spring Security/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-Spring Security/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-Spring Security/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-Spring Security/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-Spring Security/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-Spring Security/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-Spring Security/src/main/java/com/talha/springboot/app/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-Spring Security/src/main/java/com/talha/springboot/app/configuration/DemoSecurityConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-Spring Security/src/main/java/com/talha/springboot/app/controller/DemoController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-Spring Security/src/main/java/com/talha/springboot/app/controller/LoginController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-Spring Security/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-Spring Security/src/main/webapp/WEB-INF/jsp/access-denied.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-Spring Security/src/main/webapp/WEB-INF/jsp/fancy-login.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-Spring Security/src/main/webapp/WEB-INF/jsp/home.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-Spring Security/src/main/webapp/WEB-INF/jsp/leaders.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-Spring Security/src/main/webapp/WEB-INF/jsp/plain-login.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-Spring Security/src/main/webapp/WEB-INF/jsp/systems.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-Spring Security/src/main/webapp/resources/css/add-customer-style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-Spring Security/src/main/webapp/resources/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-RabbitMQ/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-RabbitMQ/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-RabbitMQ/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-RabbitMQ/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-RabbitMQ/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-RabbitMQ/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-RabbitMQ/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-RabbitMQ/src/main/java/com/talha/app/AppApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-RabbitMQ/src/main/java/com/talha/app/Pojo/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-RabbitMQ/src/main/java/com/talha/app/config/RabbitMQConfiguration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-RabbitMQ/src/main/java/com/talha/app/consumer/PersonConsumer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-RabbitMQ/src/main/java/com/talha/app/producer/PersonProducer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-RabbitMQ/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-ProducerConsumer_WaitNotify/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-ProducerConsumer_WaitNotify/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-ProducerConsumer_WaitNotify/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-ProducerConsumer_WaitNotify/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-ProducerConsumer_WaitNotify/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-ProducerConsumer_WaitNotify/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-ProducerConsumer_WaitNotify/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-ProducerConsumer_WaitNotify/src/main/java/com/talha/app/AppApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-ProducerConsumer_WaitNotify/src/main/java/com/talha/app/component/SharedObject.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-ProducerConsumer_WaitNotify/src/main/java/com/talha/app/configuration/ExecutorServiceConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-ProducerConsumer_WaitNotify/src/main/java/com/talha/app/configuration/RandomConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-ProducerConsumer_WaitNotify/src/main/java/com/talha/app/runner/ConsumerRunner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-ProducerConsumer_WaitNotify/src/main/java/com/talha/app/runner/ProducerRunner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-ProducerConsumer_WaitNotify/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/09-ProducerConsumer_BinarySemaphore/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/09-ProducerConsumer_BinarySemaphore/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/09-ProducerConsumer_BinarySemaphore/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/09-ProducerConsumer_BinarySemaphore/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/09-ProducerConsumer_BinarySemaphore/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/09-ProducerConsumer_BinarySemaphore/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/09-ProducerConsumer_BinarySemaphore/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/09-ProducerConsumer_BinarySemaphore/src/main/java/com/talha/app/AppApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/09-ProducerConsumer_BinarySemaphore/src/main/java/com/talha/app/component/SharedObject.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/09-ProducerConsumer_BinarySemaphore/src/main/java/com/talha/app/configuration/ExecutorServiceConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/09-ProducerConsumer_BinarySemaphore/src/main/java/com/talha/app/configuration/RandomConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/09-ProducerConsumer_BinarySemaphore/src/main/java/com/talha/app/configuration/SemaphoreConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/09-ProducerConsumer_BinarySemaphore/src/main/java/com/talha/app/runner/ConsumerRunner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/09-ProducerConsumer_BinarySemaphore/src/main/java/com/talha/app/runner/ProducerRunner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/09-ProducerConsumer_BinarySemaphore/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10-ProducerConsumer_QueueSemaphore/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10-ProducerConsumer_QueueSemaphore/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10-ProducerConsumer_QueueSemaphore/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10-ProducerConsumer_QueueSemaphore/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10-ProducerConsumer_QueueSemaphore/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10-ProducerConsumer_QueueSemaphore/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10-ProducerConsumer_QueueSemaphore/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10-ProducerConsumer_QueueSemaphore/src/main/java/com/talha/app/AppApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10-ProducerConsumer_QueueSemaphore/src/main/java/com/talha/app/component/SharedObject.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10-ProducerConsumer_QueueSemaphore/src/main/java/com/talha/app/configuration/ExecutorServiceConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10-ProducerConsumer_QueueSemaphore/src/main/java/com/talha/app/configuration/QueueConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10-ProducerConsumer_QueueSemaphore/src/main/java/com/talha/app/configuration/RandomConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10-ProducerConsumer_QueueSemaphore/src/main/java/com/talha/app/configuration/SemaphoreConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10-ProducerConsumer_QueueSemaphore/src/main/java/com/talha/app/runner/ConsumerRunner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10-ProducerConsumer_QueueSemaphore/src/main/java/com/talha/app/runner/ProducerRunner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10-ProducerConsumer_QueueSemaphore/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/11-TCP/001-TCPRandomPasswordGeneratorApp/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/11-TCP/001-TCPRandomPasswordGeneratorApp/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/11-TCP/001-TCPRandomPasswordGeneratorApp/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/11-TCP/001-TCPRandomPasswordGeneratorApp/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/11-TCP/001-TCPRandomPasswordGeneratorApp/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/11-TCP/001-TCPRandomPasswordGeneratorApp/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/11-TCP/001-TCPRandomPasswordGeneratorApp/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/11-TCP/001-TCPRandomPasswordGeneratorApp/src/main/java/com/talha/app/AppApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/11-TCP/001-TCPRandomPasswordGeneratorApp/src/main/java/com/talha/app/client/ClientInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/11-TCP/001-TCPRandomPasswordGeneratorApp/src/main/java/com/talha/app/configuration/async/ExecutorConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/11-TCP/001-TCPRandomPasswordGeneratorApp/src/main/java/com/talha/app/configuration/client/ClientInfoConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/11-TCP/001-TCPRandomPasswordGeneratorApp/src/main/java/com/talha/app/configuration/cron/Scheduler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/11-TCP/001-TCPRandomPasswordGeneratorApp/src/main/java/com/talha/app/configuration/server/ServerSocketConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/11-TCP/001-TCPRandomPasswordGeneratorApp/src/main/java/com/talha/app/runner/RandomPasswordServerRunner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/11-TCP/001-TCPRandomPasswordGeneratorApp/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/11-TCP/Client/ConsoleClient/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/11-TCP/Client/ConsoleClient/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/11-TCP/Client/ConsoleClient/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/11-TCP/Client/ConsoleClient/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/11-TCP/Client/ConsoleClient/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/11-TCP/Client/ConsoleClient/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/11-TCP/Client/ConsoleClient/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/11-TCP/Client/ConsoleClient/src/main/java/com/talha/app/AppApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/11-TCP/Client/ConsoleClient/src/main/java/com/talha/app/configuration/SocketConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/11-TCP/Client/ConsoleClient/src/main/java/com/talha/app/runner/ConsoleClientRunner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/11-TCP/Client/ConsoleClient/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/12-UDP/001-SenderReciever/Receiver/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/12-UDP/001-SenderReciever/Receiver/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/12-UDP/001-SenderReciever/Receiver/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/12-UDP/001-SenderReciever/Receiver/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/12-UDP/001-SenderReciever/Receiver/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/12-UDP/001-SenderReciever/Receiver/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/12-UDP/001-SenderReciever/Receiver/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/12-UDP/001-SenderReciever/Receiver/src/main/java/com/talha/app/AppApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/12-UDP/001-SenderReciever/Receiver/src/main/java/com/talha/app/Receiver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/12-UDP/001-SenderReciever/Receiver/src/main/java/com/talha/app/RecieverRunner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/12-UDP/001-SenderReciever/Receiver/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/12-UDP/001-SenderReciever/Sender/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/12-UDP/001-SenderReciever/Sender/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/12-UDP/001-SenderReciever/Sender/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/12-UDP/001-SenderReciever/Sender/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/12-UDP/001-SenderReciever/Sender/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/12-UDP/001-SenderReciever/Sender/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/12-UDP/001-SenderReciever/Sender/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/12-UDP/001-SenderReciever/Sender/src/main/java/com/talha/app/AppApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/12-UDP/001-SenderReciever/Sender/src/main/java/com/talha/app/Sender.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/12-UDP/001-SenderReciever/Sender/src/main/java/com/talha/app/SenderRunner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/12-UDP/001-SenderReciever/Sender/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/13-CollectionsLib/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/13-CollectionsLib/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/13-CollectionsLib/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/13-CollectionsLib/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/13-CollectionsLib/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/13-CollectionsLib/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/13-CollectionsLib/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/13-CollectionsLib/src/main/java/com/talha/app/AppApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/13-CollectionsLib/src/main/java/com/talha/app/algorithm/ArrayAlgorithm.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/13-CollectionsLib/src/main/java/com/talha/app/collections/ArrayStack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/13-CollectionsLib/src/main/java/com/talha/app/collections/CircularQueue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/13-CollectionsLib/src/main/java/com/talha/app/collections/DoublyLinkedList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/13-CollectionsLib/src/main/java/com/talha/app/collections/MyArrayList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/13-CollectionsLib/src/main/java/com/talha/app/collections/Vector.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/13-CollectionsLib/src/main/java/com/talha/app/function/IComparator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/13-CollectionsLib/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/14-CollectionsJavaLib/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/14-CollectionsJavaLib/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/14-CollectionsJavaLib/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/14-CollectionsJavaLib/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/14-CollectionsJavaLib/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/14-CollectionsJavaLib/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/14-CollectionsJavaLib/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/14-CollectionsJavaLib/src/main/java/com/talha/app/AppApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/14-CollectionsJavaLib/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/15-SensorServiceApp/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/15-SensorServiceApp/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/15-SensorServiceApp/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/15-SensorServiceApp/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/15-SensorServiceApp/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/15-SensorServiceApp/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/15-SensorServiceApp/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/15-SensorServiceApp/src/main/java/com/talha/app/AppApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/15-SensorServiceApp/src/main/java/com/talha/app/configuration/SecurityConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/15-SensorServiceApp/src/main/java/com/talha/app/controlller/SensorController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/15-SensorServiceApp/src/main/java/com/talha/app/dal/SensorServiceHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/15-SensorServiceApp/src/main/java/com/talha/app/dto/SensorDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/15-SensorServiceApp/src/main/java/com/talha/app/dto/SensorDataDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/15-SensorServiceApp/src/main/java/com/talha/app/entity/Sensor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/15-SensorServiceApp/src/main/java/com/talha/app/entity/SensorData.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/15-SensorServiceApp/src/main/java/com/talha/app/mapper/ISensorDataMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/15-SensorServiceApp/src/main/java/com/talha/app/mapper/ISensorMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/15-SensorServiceApp/src/main/java/com/talha/app/repository/SensorDataRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/15-SensorServiceApp/src/main/java/com/talha/app/repository/SensorRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/15-SensorServiceApp/src/main/java/com/talha/app/service/SensorAppService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/15-SensorServiceApp/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/15-SensorServiceApp/src/test/java/com/talha/app/AppApplicationTests.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2H1gmbxphwXE3bAFubCDnhA4g11" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="419ebcd0-c671-4020-a59c-661f3e94c606" name="Changes" comment="" />
+      <created>1667458164195</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667458164195</updated>
+      <workItem from="1667458166448" duration="390000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
